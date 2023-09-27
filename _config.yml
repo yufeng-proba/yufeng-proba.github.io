@@ -38,12 +38,12 @@ links:
     url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Awards
+   # url: /awards/
+  #- title: Fundings
+  #  url: /fundings/
+ # - title: Hobbies
+  #  url: /hobbies/
   - title: Blogs
     url: /blogs/
 
