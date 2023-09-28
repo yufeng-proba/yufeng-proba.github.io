@@ -4,14 +4,14 @@ layout: page
 
 # About Me
 
-<img src="https://yufeng-proba.github.io/yufeng.jpg" class="floatpic" width="500" height="700">
+<img src="https://yufeng-proba.github.io/yufeng.jpg" class="floatpic" width="1000" height="1200">
 
 Here is **Yu Feng**.
 
 I am a fouth-year phd student in mathematics at Yau Mathematical Sciences Center, Tsinghua University, advised by Prof. Hao Wu. My research
  interests include Schramm-Loewner evolution, percolation, Ising and random-cluster models.  Currently, I am visiting NYUAD and working with Prof. Federico Camia. 
 
-#Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+
 
 <br>
 
