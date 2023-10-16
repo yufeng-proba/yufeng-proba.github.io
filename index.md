@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yufeng-proba.github.io/yufeng.jpg" class="floatpic" width="1920" height="1818">
+#<img src="https://yufeng-proba.github.io/yufeng.jpg" class="floatpic" width="1920" height="1818">
 
 Here is **Yu Feng**.
 
